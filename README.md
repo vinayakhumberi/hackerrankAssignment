@@ -1,2 +1,2 @@
 # hackerrankAssignment
-This is a assignment provided by hackerrank
+This is an assignment provided by hackerrank
